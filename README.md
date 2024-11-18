@@ -1,7 +1,7 @@
 # about.me
 - 👋Hi, I'm Giocoliere
-![Gicoo](https://i.imgur.com/gdmOzZY.jpg?size=128)
-- I am the official owner of the Creepercraft Team, more news in the future
+![Gicoo](https://gioco.lol/assets/img/logo.png?size=128) <br>
+- I am the official owner of the Creepercraft Team, more news in the future <br>
  ![Imgur](https://i.imgur.com/HjR9d1V.png)
 - I'm currently on github for my purposes...
 - I'm trying to manage my server, with everything github can offer me.
